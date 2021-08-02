@@ -9,7 +9,7 @@ public class day1 {
 
         ArrayList<Integer> nums = new ArrayList<>();
 
-        Scanner input = new Scanner(Paths.get("aoc2020/src/day1/1.txt"));
+        Scanner input = new Scanner(Paths.get("aoc2020/src/day1/input.txt"));
 
         // Convert input into list of ints
         while (input.hasNextLine()) {
