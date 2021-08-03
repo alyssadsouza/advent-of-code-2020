@@ -11,7 +11,7 @@ public class day2 {
 
         Scanner input = new Scanner(Paths.get("aoc2020/src/day2/input.txt"));
 
-        // Convert input into list of ints
+        // Convert input into list
         while (input.hasNextLine()) {
             passwords.add(input.nextLine());
         }
