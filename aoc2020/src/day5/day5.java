@@ -3,7 +3,6 @@ package day5;
 import java.util.Scanner;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.stream.Collectors;
 
 public class day5 {
