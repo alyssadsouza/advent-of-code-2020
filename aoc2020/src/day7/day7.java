@@ -2,7 +2,6 @@ package day7;
 
 import java.util.Scanner;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
